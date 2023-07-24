@@ -1,0 +1,60 @@
+.block p {
+color: blue;
+}
+.text {
+color: blue;
+}
+.pjpa {
+background-color: green;
+display: block;
+width: 400px;
+}
+p {
+text-align: justify;
+}
+.popa {
+color: rgba(0,255,255,0.5);
+text-align: center;
+text-transform: lowercase;
+text-decoration: underline;
+background-color: red;
+}
+h1 {
+border: 2px solid #000;
+}
+.box {
+background-color: #aeaeae;
+height: 100px;
+overflow: auto;
+width: 20%;
+position: absolute;
+display: inline-block;
+margin-left: 10px;
+z-index: 2;
+float: left;
+}
+.momo {
+width: 50px;
+height: 50px;
+position: absolute;
+background-color: red;
+float: left;
+z-index: 3;
+}
+.box2 {
+background-color: #aeaeae;
+padding-top: 20px;
+padding-left: 40px;
+padding-bottom: 30px;
+border: 5px solid #000;
+border-top: 10px solid red;
+border-width: 7px;
+margin-top: 50px;
+width: 50%;
+position: fixed;
+margin-left: 25%;
+top: 0;
+}
+* {
+box-sizing: border-box;
+}
