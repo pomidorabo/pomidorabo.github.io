@@ -10,3 +10,5 @@
 [Верстка без bootsrap](https://pomidorabo.github.io/hren1 "Сайт")
 
 [Основы CSS](https://pomidorabo.github.io/hren2 "Основы CSS")
+
+[Основы HTML](https://pomidorabo.github.io/hren3 "HTML")
